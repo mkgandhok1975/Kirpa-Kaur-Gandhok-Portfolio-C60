@@ -1,0 +1,30 @@
+#img_1 {
+    height: 350px;
+    width: 250px;
+    border-radius: 150px;
+    border-width: 4px;
+    border-style: solid;
+    border-color:black;
+}
+#Section_1{
+    text-align: center;
+    background: linear-gradient(#f579ec 20%,  #36d1dc 25%,  yellow 80%);
+    font-family: 'Are You Serious', cursive;
+}
+#IMG_2{
+    height: 350px;
+    width: 250px;
+}
+#Section_2 {
+    background: linear-gradient (#36d1dc 0%,#ffc371 100%); 
+}
+#menu{
+list-style: none;
+}
+.list_item{
+float: right;
+margin-right:15px;
+font-family: 'Are You Serious', cursive;
+font-size:x-large;
+cursor:pointer;
+}
